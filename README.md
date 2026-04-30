@@ -28,7 +28,7 @@ This Power BI dashboard identifies:
 ## 📷 Dashboard Preview
 
 ### 🔹 Overview
-![Overview](./image/overview.png)
+[![Overview](./image/overview.png)](https://github.com/aniruddhapal/student-performance-analytics-dashboard/blob/df4d6f4e974022603fcac4dc0fb3afa08b4496ae/image/overview.PNG)
 
 ### 🔹 Risk & Intervention
 ![Risk](./image/Risk intervention.png)
