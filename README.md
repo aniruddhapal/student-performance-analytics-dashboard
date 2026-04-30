@@ -31,7 +31,7 @@ This Power BI dashboard identifies:
 [![Overview](./image/overview.png)](https://github.com/aniruddhapal/student-performance-analytics-dashboard/blob/df4d6f4e974022603fcac4dc0fb3afa08b4496ae/image/overview.PNG)
 
 ### 🔹 Risk & Intervention
-![Risk](./image/Risk intervention.png)
+[![Risk](./image/Risk intervention.png)](https://github.com/aniruddhapal/student-performance-analytics-dashboard/blob/84963561ca0f268903fc9b8b27c9477dda0222d4/image/Risk%20intervention.PNG)
 
 ---
 
