@@ -28,7 +28,7 @@ This Power BI dashboard identifies:
 ## 📷 Dashboard Preview
 
 ### 🔹 Overview
-image/overview.PNG
+!image/overview.PNG
 
 ### 🔹 Risk & Intervention
 ![Risk](images/risk_intervention.png)
