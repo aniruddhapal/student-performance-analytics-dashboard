@@ -1,5 +1,3 @@
-# student-performance-analytics-dashboard
-Student Performance Analytics Dashboard
 # Student Performance Analytics Dashboard
 
 ## Problem
