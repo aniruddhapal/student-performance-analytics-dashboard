@@ -33,6 +33,9 @@ This Power BI dashboard identifies:
 ### 🔹 Risk & Intervention
 [Risk](https://github.com/aniruddhapal/student-performance-analytics-dashboard/blob/84963561ca0f268903fc9b8b27c9477dda0222d4/image/Risk%20intervention.PNG)
 
+### 🔹 Download full dashboard here 
+[Student Performance Analysis.pdf](https://github.com/aniruddhapal/student-performance-analytics-dashboard/blob/main/Student%20Performance%20Analysis.pdf)
+
 ---
 
 ## ⚙️ Approach
