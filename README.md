@@ -36,7 +36,7 @@ This Power BI dashboard identifies:
 ### 🔹 Download full dashboard here 
 [Student Performance Analysis.pdf](https://github.com/aniruddhapal/student-performance-analytics-dashboard/blob/main/Student%20Performance%20Analysis.pdf)
 
-👉 Live Dashboard: [View here](https://app.powerbi.com/links/aJ6CkkQ8Eb?ctid=dc6ce354-5ae6-49f7-9698-c2dec187475e&pbi_source=linkShare&bookmarkGuid=cae96374-9c49-4f60-a2ae-35105c5513af)
+👉 Live Dashboard: [View here](https://app.powerbi.com/view?r=eyJrIjoiNGFhZWE3OWItZWI3MS00ZDM2LTg4MDktZDM1YmQ0YmQzZjU2IiwidCI6ImRjNmNlMzU0LTVhZTYtNDlmNy05Njk4LWMyZGVjMTg3NDc1ZSJ9)
 ---
 
 ## ⚙️ Approach
